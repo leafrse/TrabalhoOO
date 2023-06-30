@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"entities","l":"Main"},{"p":"entities","l":"Produto"},{"p":"entities","l":"Seringa"},{"p":"entities","l":"ToxinaButolinica"}];updateSearchResults();
